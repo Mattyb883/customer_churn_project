@@ -95,7 +95,7 @@ Visualized churn patterns using Python:
 
 ## Looker Studio Dashboard
 
-> [View Dashboard](https://lookerstudio.google.com/reporting/614f9d9c-b959-4b0b-bd59-bd77cfa33bb1)
+<a href="https://your-dashboard-link.com" target="_blank">View Dashboard</a>
 
 ### KPIs
 - Total Customers  
