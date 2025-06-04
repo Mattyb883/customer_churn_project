@@ -27,7 +27,7 @@ This project builds a machine learning model to predict customer churn and visua
 
 ## Dashboard Preview
 
-![Churn Dashboard](customer_churn_dashboard.png)
+![Churn Dashboard](customer_churn_dashboard2.png)
 
 ---
 
